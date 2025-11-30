@@ -1,4 +1,4 @@
-#array & strings practice 
+#array & strings practice:
 this repository contains python exercises to practice array and string operations
 
 each folder has: 
